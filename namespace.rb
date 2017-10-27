@@ -10,4 +10,4 @@ module Nanoka
 
 end
 
-puts Nanoka::Date.demo
+puts Nanoka::Date::demo
